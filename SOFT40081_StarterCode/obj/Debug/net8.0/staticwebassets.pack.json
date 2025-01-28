@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SOFT40081_StarterCode.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SOFT40081_StarterCode.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\abc.jpg",
+      "PackagePath": "staticwebassets\\abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\badusb.jpg",
+      "PackagePath": "staticwebassets\\badusb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\bg1.jpg",
+      "PackagePath": "staticwebassets\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\bg2.jpg",
+      "PackagePath": "staticwebassets\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\bg4.jpg",
+      "PackagePath": "staticwebassets\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\bt.jpg",
+      "PackagePath": "staticwebassets\\bt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\card.jpg",
+      "PackagePath": "staticwebassets\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\cart.png",
+      "PackagePath": "staticwebassets\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\flipper0.jpg",
+      "PackagePath": "staticwebassets\\flipper0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\image5.jpg",
+      "PackagePath": "staticwebassets\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\ayesha20240808010740197.jpg",
+      "PackagePath": "staticwebassets\\images\\ayesha20240808010740197.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\badusb.jpg",
+      "PackagePath": "staticwebassets\\images\\badusb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\bt.jpg",
+      "PackagePath": "staticwebassets\\images\\bt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\card.jpg",
+      "PackagePath": "staticwebassets\\images\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\charity20240729011024546.jpg",
+      "PackagePath": "staticwebassets\\images\\charity20240729011024546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\charity20240729011050629.jpg",
+      "PackagePath": "staticwebassets\\images\\charity20240729011050629.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\flipper0.jpg",
+      "PackagePath": "staticwebassets\\images\\flipper0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\image5.jpg",
+      "PackagePath": "staticwebassets\\images\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\images\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\logofinal20240812074630770.png",
+      "PackagePath": "staticwebassets\\images\\logofinal20240812074630770.png"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\menhyg20240729005042308.jpg",
+      "PackagePath": "staticwebassets\\images\\menhyg20240729005042308.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\mentalhealth20240729005055123.jpg",
+      "PackagePath": "staticwebassets\\images\\mentalhealth20240729005055123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\micjpg.jpg",
+      "PackagePath": "staticwebassets\\images\\micjpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\musa20240808004026636.jpg",
+      "PackagePath": "staticwebassets\\images\\musa20240808004026636.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\notsafe20240808012205685.jpg",
+      "PackagePath": "staticwebassets\\images\\notsafe20240808012205685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\pocket.jpg",
+      "PackagePath": "staticwebassets\\images\\pocket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\pubgirl.jpg",
+      "PackagePath": "staticwebassets\\images\\pubgirl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\pubgirl20240729005103860.jpg",
+      "PackagePath": "staticwebassets\\images\\pubgirl20240729005103860.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\rpi.jpg",
+      "PackagePath": "staticwebassets\\images\\rpi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\rubber.jpg",
+      "PackagePath": "staticwebassets\\images\\rubber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\santosh20240731155656031.jpg",
+      "PackagePath": "staticwebassets\\images\\santosh20240731155656031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\sdr.jpg",
+      "PackagePath": "staticwebassets\\images\\sdr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\socialm.webp",
+      "PackagePath": "staticwebassets\\images\\socialm.webp"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\socialm20240729005336377.webp",
+      "PackagePath": "staticwebassets\\images\\socialm20240729005336377.webp"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\sports.jpg",
+      "PackagePath": "staticwebassets\\images\\sports.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\sports20240729005553693.jpg",
+      "PackagePath": "staticwebassets\\images\\sports20240729005553693.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team5.jpg",
+      "PackagePath": "staticwebassets\\images\\team5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team6.jpg",
+      "PackagePath": "staticwebassets\\images\\team6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\team7.jpg",
+      "PackagePath": "staticwebassets\\images\\team7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\tsocial20240805222645615.jpg",
+      "PackagePath": "staticwebassets\\images\\tsocial20240805222645615.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\wifi.jpg",
+      "PackagePath": "staticwebassets\\images\\wifi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\wifi2.jpg",
+      "PackagePath": "staticwebassets\\images\\wifi2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\img4.jpg",
+      "PackagePath": "staticwebassets\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\logo-black.png",
+      "PackagePath": "staticwebassets\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\micjpg.jpg",
+      "PackagePath": "staticwebassets\\micjpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\pocket.jpg",
+      "PackagePath": "staticwebassets\\pocket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\rpi.jpg",
+      "PackagePath": "staticwebassets\\rpi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\rubber.jpg",
+      "PackagePath": "staticwebassets\\rubber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\sdr.jpg",
+      "PackagePath": "staticwebassets\\sdr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team1.jpg",
+      "PackagePath": "staticwebassets\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team2.jpg",
+      "PackagePath": "staticwebassets\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team3.jpg",
+      "PackagePath": "staticwebassets\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team4.jpg",
+      "PackagePath": "staticwebassets\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team5.jpg",
+      "PackagePath": "staticwebassets\\team5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team6.jpg",
+      "PackagePath": "staticwebassets\\team6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\team7.jpg",
+      "PackagePath": "staticwebassets\\team7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\wifi.jpg",
+      "PackagePath": "staticwebassets\\wifi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Musaddik Vasaikar\\OneDrive\\Desktop\\NTU\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\wifi2.jpg",
+      "PackagePath": "staticwebassets\\wifi2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SOFT40081_StarterCode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SOFT40081_StarterCode.props",
+      "PackagePath": "build\\SOFT40081_StarterCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SOFT40081_StarterCode.props",
+      "PackagePath": "buildMultiTargeting\\SOFT40081_StarterCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SOFT40081_StarterCode.props",
+      "PackagePath": "buildTransitive\\SOFT40081_StarterCode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

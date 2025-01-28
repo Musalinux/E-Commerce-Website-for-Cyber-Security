@@ -1,0 +1,20 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.AddProductsModel
+@{
+
+    ViewData["Title"] = "Add New Product";
+}
+
+<h2>Add New Product</h2>
+<form method="post" enctype="multipart/form-data">
+    <input type="text" name="Name" placeholder="Product Name" required /> <br><br>
+    <textarea name="Description" placeholder="Description" required></textarea><br><br>
+    <textarea name="SecurityImpact" placeholder="Security Impact" required></textarea><br><br>
+    <input type="number" name="Price" placeholder="Price" required /><br><br>
+    <input type="number" name="Rating" placeholder="Rating" required /><br><br>
+    <input type="file" name="Image" required /><br><br>
+    <button class="addproduct" type="submit">Add Product</button>
+</form>
+
+
+<link rel="stylesheet" href="~/css/admin.css">

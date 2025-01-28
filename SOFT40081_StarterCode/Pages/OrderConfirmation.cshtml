@@ -1,0 +1,26 @@
+@page
+@model SOFT40081_StarterCode.Pages.OrderConfirmationModel
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<h2>Thank you for your purchase!</h2>
+
+@if (Model.CartProducts.Any())
+{
+    <div>
+        @foreach (var product in Model.CartProducts)
+        {
+            <p>@product.Name - @product.Price.ToString("C", new System.Globalization.CultureInfo("en-GB")) (Quantity: @product.Quantity)</p>
+        }
+        <h3>Total: @Model.CartProducts.Sum(p => p.Price * p.Quantity).ToString("C")</h3>
+    </div>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}
+
+<a href="/">Return to Home</a>
+<link rel="stylesheet" href="~/css/home.css">

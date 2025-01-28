@@ -1,0 +1,39 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.AddToCartModel
+@{
+    ViewData["Title"] = "Your Cart";
+}
+
+<div class="cart-container">
+    <h1>Your Cart</h1>
+    @if (Model.CartProducts.Any())
+    {
+        <form method="post">
+            @foreach (var cartproduct in Model.CartProducts)
+            {
+            <div class="cart-item">
+                <img src="@cartproduct.ProductImage" alt="@cartproduct.Name" style="width:100px; height:auto;">
+                <div>
+                    <h4>@cartproduct.Name</h4>
+                        <p>Price: @cartproduct.Price.ToString("C", new System.Globalization.CultureInfo("en-GB"))</p>
+
+                    <label for="quantity-@cartproduct.Id">Quantity:</label>
+                        <input type="number" id="quantity-@cartproduct.Id" name="quantity" value="@cartproduct.Quantity" min="1" />
+                        <input type="hidden" name="productId" value="@cartproduct.Id" />
+                        <button type="submit" formaction="@Url.Page("AddToCart", "UpdateCart", new { itemId = cartproduct.Id })">Update</button>
+                        <button type="submit" formaction="@Url.Page("AddToCart", "RemoveFromCart", new { itemId = cartproduct.Id })">Remove</button>
+                </div>
+            </div>
+            }
+        </form>
+        <form method="get" asp-page="Payment">
+            <button class="proceed-button" type="submit">Proceed to Payment</button>
+        </form>
+    }
+    else
+    {
+        <p>Your cart is empty.</p>
+    }
+</div>
+
+<link rel="stylesheet" href="~/css/site.css">

@@ -1,0 +1,88 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.ProductsModel
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery antiforgery
+
+@{
+    ViewData["Title"] = "Products";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - CyberMusa</title>
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="product-page">
+        <div class="head-1">
+            <h1>Cutting-edge Security Solutions</h1>
+            <p>Explore our wide range of hacking devices and improve your digital skills!</p>
+        </div>
+        <div class="head-1">
+            <img src="~/images/bg1.jpg" alt="CyberMusa Banner" />
+        </div>
+    </div>
+    <section>
+        <div class="product-container">
+            @foreach (var product in Model.Products)
+            {
+                <div class="product-card">
+                    <img src="@Url.Content("~/" + product.ProductImage)" alt="@product.Name">
+                    <h3>@product.Name</h3>
+                    <p>@product.Price.ToString("C", new System.Globalization.CultureInfo("en-GB"))</p>
+                    <p><strong>Description:</strong> @product.Description</p>
+                    <p><strong>Security Impact:</strong> @product.SecurityImpact</p>
+                    <div class="star-rating">
+                        @for (int i = 1; i <= 5; i++)
+                        {
+                            <span class="fa @(i <= product.Rating ? "fa-star checked" : "fa-star-o")"></span>
+                        }
+                    </div>
+                    <button class="add-to-cart-btn" onclick="addToCart(@product.Id)">Add to Cart <i class="fa fa-shopping-cart"></i></button>
+                </div>
+            }
+        </div>
+    </section>
+    <script>
+        function addToCart(productId) {
+            const data = JSON.stringify({ id: productId });
+            fetch('Products?handler=AddToCart', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': '@antiforgery.GetAndStoreTokens(HttpContext).RequestToken'
+                },
+                body: data
+            })
+            .then(response => {
+                if (!response.ok) throw new Error(`Failed to add product: ${response.statusText}`);
+                return response.json();
+            })
+            .then(data => {
+                if (data.success) {
+                    alert('Product added successfully!');
+                    updateCartCount();  // Call to update the cart count
+                } else {
+                    throw new Error(data.message || 'Unknown error occurred');
+                }
+            })
+            .catch(error => {
+                console.error('Add to cart error:', error);
+                alert('Error: ' + error.message);
+            });
+        }
+
+        function updateCartCount() {
+            fetch('Products?handler=CartCount', {
+                method: 'GET'
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('cart-count').innerText = data.count; // Ensure you have an element with id="cart-count"
+            });
+        }
+    </script>
+</body> 
+</html>

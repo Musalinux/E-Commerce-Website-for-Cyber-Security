@@ -1,0 +1,53 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.ContactUsModel
+@{
+    ViewData["Title"] = "Contactus Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - CyberMusa</title>
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="navbar">
+        <!-- Add navigation bar here -->
+    </div>
+
+    <div class="content">
+        <section class="contact-us">
+            <h1>Contact Us</h1>
+            <div class="contact-details">
+                <div class="contact-info">
+                    <h3>Say Hi!</h3>
+                    <p><strong>Phone:</strong> +44 75879 35818</p>
+                    <p><strong>Email:</strong> support@cybermusa.co.uk</p>
+                    <p><strong>Address:</strong> 35-36, Hounds Gate, Nottingham City Centre.</p>
+                </div>
+                <div class="business-hours">
+                    <h3>Business Hours</h3>
+                    <p>Monday - Friday: 9:00 AM - 5:00 PM</p>
+                    <p>Saturday: 10:00 AM - 2:00 PM</p>
+                    <p>Sunday: Closed</p>
+                </div>
+                <div class="social-media">
+                    <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <section class="google-map">
+            <h2>Centrally located office in the heart of Nottingham!</h2>
+            <iframe width="100%" height="300" frameborder="0" style="border:0"
+                    src="https://www.google.com/maps/embed/v1/place?q=Nottingham+city+centre,+Nottingham&key=AIzaSyAdLWs7md6yLkTB6NXkEX5o4-yGAJxX4h4"
+                allowfullscreen></iframe>
+        </section>
+    </div>
+</body>
+</html>

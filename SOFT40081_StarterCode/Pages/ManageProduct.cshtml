@@ -1,0 +1,32 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.ManageProductsModel
+@{
+    ViewData["Title"] = "Manage Products";
+}
+
+<h1>Manage Products</h1>
+
+<div class="products-grid">
+    @foreach (var product in Model.Products)
+    {
+        <div class="product-card">
+            <img src="@Url.Content("~/" + product.ProductImage)" alt="Product Image" />
+            <form method="post" enctype="multipart/form-data" asp-page-handler="Update">
+                <input type="hidden" name="id" value="@product.Id" />
+                <input type="text" name="name" value="@product.Name" />
+                <input type="text" name="description" value="@product.Description" />
+                <input type="text" name="securityImpact" value="@product.SecurityImpact" />
+                <input type="number" name="price" value="@product.Price" />
+                <input type="number" name="rating" value="@product.Rating" />
+                <input type="file" name="image" />
+                <button class="proceed-button" type="submit">Update</button>
+            </form>
+            <form method="post" asp-page-handler="Delete">
+                <input type="hidden" name="id" value="@product.Id" />
+                <button class="delete-button" type="submit">Delete</button>
+            </form>
+        </div>
+    }
+</div>
+
+<link rel="stylesheet" href="~/css/admin.css">

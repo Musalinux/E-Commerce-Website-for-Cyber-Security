@@ -1,0 +1,20 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.PaymentModel
+
+@{
+    ViewData["Title"] = "Payment";
+}
+
+<h2>Payment</h2>
+<p>Total to be paid: @Model.TotalAmount.ToString("C")</p>
+<form method="post">
+    <label for="cardNumber">Card Number:</label>
+    <input type="text" id="cardNumber" name="CardNumber" required><br><br>
+    <label for="expiryDate">Expiry Date:</label>
+    <input type="text" id="expiryDate" name="ExpiryDate" placeholder="MM/YYYY" required><br><br>
+    <label for="cvc">CVC:</label>
+    <input type="text" id="cvc" name="CVC" required><br><br>
+    <button class="proceed-button" type="submit">Confirm Purchase</button>
+</form>
+
+<link rel="stylesheet" href="~/css/home.css">

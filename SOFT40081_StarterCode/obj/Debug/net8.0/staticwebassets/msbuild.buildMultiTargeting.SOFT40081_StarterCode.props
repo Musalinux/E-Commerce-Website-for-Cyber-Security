@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SOFT40081_StarterCode.props" />
+</Project>

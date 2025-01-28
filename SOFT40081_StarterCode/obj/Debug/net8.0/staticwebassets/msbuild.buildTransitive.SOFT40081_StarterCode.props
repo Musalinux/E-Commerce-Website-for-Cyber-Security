@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SOFT40081_StarterCode.props" />
+</Project>
