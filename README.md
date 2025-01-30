@@ -1,7 +1,5 @@
 # CyberMusa - E-Commerce Website for Cybersecurity Products
 
-![Nottingham Trent University](media/image1.png)
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Success Criteria](#success-criteria)
@@ -104,18 +102,21 @@ The sitemap outlines the structure of the website, including all navigation bar 
 ### Home Page
 The home page is the landing page, divided into four sections:
 1. **Carousel Section**: Displays three images with titles and descriptions.
+
 ![image](https://github.com/user-attachments/assets/6d94d832-3cc7-4099-b413-e63511ea2a18)
+
 2. **About Us Section**: Provides a brief overview of the website.
+
 ![image](https://github.com/user-attachments/assets/94a3bfe4-4a5e-41ed-be72-6453b68269b4)
+
 4. **Our Services Section**: Lists the services offered.
 5. **Featured Products Section**: Displays products with a rating of 4 and above.
-
-![Home Page](media/image5.png)
 
 ### Products Page
 Displays products in a card format. Users can hover over products to highlight them.
 
-![Products Page](media/image7.png)
+![Products Page](![image](https://github.com/user-attachments/assets/06023c23-1325-449c-b5d7-b7acf0785ca3)
+)
 
 ### Contact Us Page
 Includes contact information (phone, email, business hours) and a Google Map integration.
@@ -125,16 +126,17 @@ Includes contact information (phone, email, business hours) and a Google Map int
 
 ### Login and Register Pages
 - **Login Page**: Allows registered users to access their accounts.
+
 ![image](https://github.com/user-attachments/assets/e3f29363-74bf-4f6f-b877-79987831c5e8)
+
 - **Register Page**: Allows new users to create an account.
+
 ![image](https://github.com/user-attachments/assets/533d6a56-8afc-4b58-bb62-8b99ae523554)
 
 
-![Login Page]()
-![Register Page]()
-
 ### Add to Cart Page
 Users can add products to the cart, update quantities, and proceed to payment.
+
 ![image](https://github.com/user-attachments/assets/bbf48d79-0d14-422c-8cb3-942d1726ee56)
 
 ![image](https://github.com/user-attachments/assets/f7792cfb-51da-4ad3-8939-76035985f8e3)
@@ -154,12 +156,17 @@ Displays a confirmation message and redirects users to the home page.
 ### Admin Page
 Allows admins to add, update, and delete products.
 
-![Admin Dashboard](![image](https://github.com/user-attachments/assets/b1fa635a-c36c-4607-8209-1228269a9331)
-)
-![Add Products Page](![image](https://github.com/user-attachments/assets/30808250-a462-4528-b731-3ebaabd93f17)
-)
-![Manage Products Page](![image](https://github.com/user-attachments/assets/fbe522eb-dddf-4f4c-9a20-ee3527d643e6)
-)
+1) Admin Dashboard
+
+![image](https://github.com/user-attachments/assets/d46fb837-b437-4940-98bf-7d022862b766)
+
+2) Add Products Page
+
+![image](https://github.com/user-attachments/assets/e1adbc3b-0429-4a8f-8b79-ccf8f726796a)
+
+3) Manage Products Page
+![image](https://github.com/user-attachments/assets/23a8ef6d-ba86-4a2e-81bc-8195a1e4e886)
+
 
 ---
 
