@@ -115,8 +115,8 @@ The home page is the landing page, divided into four sections:
 ### Products Page
 Displays products in a card format. Users can hover over products to highlight them.
 
-![Products Page](![image](https://github.com/user-attachments/assets/06023c23-1325-449c-b5d7-b7acf0785ca3)
-)
+![Uploading image.png…]()
+
 
 ### Contact Us Page
 Includes contact information (phone, email, business hours) and a Google Map integration.
@@ -165,6 +165,7 @@ Allows admins to add, update, and delete products.
 ![image](https://github.com/user-attachments/assets/e1adbc3b-0429-4a8f-8b79-ccf8f726796a)
 
 3) Manage Products Page
+
 ![image](https://github.com/user-attachments/assets/23a8ef6d-ba86-4a2e-81bc-8195a1e4e886)
 
 
