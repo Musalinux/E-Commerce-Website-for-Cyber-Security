@@ -58,8 +58,8 @@ The following table outlines the key functionalities implemented in the project:
 ### Sitemap
 The sitemap outlines the structure of the website, including all navigation bar items and their associated pages.
 
-![Sitemap](![image](https://github.com/user-attachments/assets/e726376c-b3ea-433f-9717-28b1a5fd8ac3)
-)
+![image](https://github.com/user-attachments/assets/3337e76e-ac94-4ebe-b53e-472151ce59d5)
+
 
 ### Design Planning and Stages
 1. **Initial Planning Phase**: 
@@ -115,7 +115,7 @@ The home page is the landing page, divided into four sections:
 ### Products Page
 Displays products in a card format. Users can hover over products to highlight them.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ac026144-76ba-4a72-869a-5ce85cbbf0bb)
 
 
 ### Contact Us Page
